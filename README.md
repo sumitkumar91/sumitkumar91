@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate Computer Science student at Stony Brook University</h3>
+<h3 align="center">A passionate Computer Science and Applied Mathematics & Statistics student at Stony Brook University</h3>
 
-- 🔭 I’m currently working on [Manas Care](https://manascare.vercel.app/)
+- 🔭 I’m currently working on [AlgoWorld](https://manascare.sumitk.me/)
 
 - 📫 How to reach me **sumitkumar6348k@gmail.com**
 
-- 📄 Portfolio [https://sumitkumar91.vercel.app](https://sumitkumar91.vercel.app)
+- 📄 Website [sumitk.me](https://sumitk.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
