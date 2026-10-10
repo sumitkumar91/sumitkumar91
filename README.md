@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Computer Science and Applied Mathematics & Statistics student at Stony Brook University</h3>
 
-- 🔭 I’m currently working on [AlgoWorld](https://manascare.sumitk.me/)
+- 🔭 I’m currently working on [AlgoWorld](https://algoworld.sumitk.me/)
 
 - 📫 How to reach me **sumitkumar6348k@gmail.com**
 
